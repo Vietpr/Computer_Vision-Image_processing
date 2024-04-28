@@ -32,7 +32,7 @@ Description: Adjust and align images to have the same perspective, suitable for 
  
 ![image4](https://github.com/Vietpr/Computer_Vision-Image_processing/assets/113697984/204833ba-d299-44d9-b40f-b0d26e82d042)
 
-Description: Identify the position and features of coins in images.
+ Description: Identify the position and features of coins in images.
 
 ## Requirements
 * Programming Language: Python
