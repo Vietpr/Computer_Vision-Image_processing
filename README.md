@@ -1,7 +1,7 @@
 # Computer Vision - Image processing ⛰
 
 ## Introduction
-This project focuses on the application of Computer Vision in image processing. echniques and algorithms are used to perform tasks such as noise reduction, image alignment, image 
+This project focuses on the application of Computer Vision in image processing.
 
 ## Objective
 The objective of this project is to explore various applications of Computer Vision in image processing. Through implementing different techniques and algorithms, the project aims to address tasks such as noise reduction, image alignment, image reconstruction, object detection, and coin classification.
